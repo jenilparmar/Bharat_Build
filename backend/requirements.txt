@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+pymongo
+python-dotenv
+python-jose
+google-auth
+requests
+bcrypt
+openai
+python-multipart
+SpeechRecognition
+pydub
+pypdf
+qdrant-client
+tzdata
